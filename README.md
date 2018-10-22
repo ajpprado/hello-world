@@ -1,2 +1,3 @@
 # hello-world
-For Hello World! tutorial from GitHUb.
+For Hello World! tutorial from GitHub.
+This is the README.md file.
